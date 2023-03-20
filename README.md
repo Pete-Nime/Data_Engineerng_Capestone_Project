@@ -60,7 +60,7 @@ Can view the data on this link https://www.kaggle.com/datasets/berkeleyearth/cli
 - And how the impact it has on the demographics 
 
 
-#### The Executing Setps of the Projects
+#### The Executing Setps of the Project
 
 - Gathering the data and scope how it will be executed.
 
